@@ -10,3 +10,4 @@ print(f'affter swapping a= {a} b ={b}')
 #abc
 def hello():
    pass
+print('hello')
